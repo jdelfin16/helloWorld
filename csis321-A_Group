@@ -1,0 +1,6 @@
+echo "# CSIS_321_project_elGame" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:johncjoo/CSIS_321_project_elGame.git
+git push -u origin master
